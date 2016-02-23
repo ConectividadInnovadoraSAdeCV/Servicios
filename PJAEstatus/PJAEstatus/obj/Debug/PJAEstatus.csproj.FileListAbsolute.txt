@@ -1,0 +1,4 @@
+C:\Users\jalvarez\Documents\Google Drive\Visual Studio 2012\Projects\PJAEstatus\PJAEstatus\bin\PJAEstatus.dll
+C:\Users\jalvarez\Documents\Google Drive\Visual Studio 2012\Projects\PJAEstatus\PJAEstatus\bin\PJAEstatus.pdb
+C:\Users\jalvarez\Documents\Google Drive\Visual Studio 2012\Projects\PJAEstatus\PJAEstatus\obj\Debug\PJAEstatus.dll
+C:\Users\jalvarez\Documents\Google Drive\Visual Studio 2012\Projects\PJAEstatus\PJAEstatus\obj\Debug\PJAEstatus.pdb

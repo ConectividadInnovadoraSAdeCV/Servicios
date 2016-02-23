@@ -1,0 +1,5 @@
+C:\Users\jalvarez\Documents\Google Drive\Visual Studio 2008\Projects\LoadWeonLogFiles\LoadWeonLogFiles\bin\Debug\LoadWeonLogFiles.exe
+C:\Users\jalvarez\Documents\Google Drive\Visual Studio 2008\Projects\LoadWeonLogFiles\LoadWeonLogFiles\bin\Debug\LoadWeonLogFiles.pdb
+C:\Users\jalvarez\Documents\Google Drive\Visual Studio 2008\Projects\LoadWeonLogFiles\LoadWeonLogFiles\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jalvarez\Documents\Google Drive\Visual Studio 2008\Projects\LoadWeonLogFiles\LoadWeonLogFiles\obj\Debug\LoadWeonLogFiles.exe
+C:\Users\jalvarez\Documents\Google Drive\Visual Studio 2008\Projects\LoadWeonLogFiles\LoadWeonLogFiles\obj\Debug\LoadWeonLogFiles.pdb

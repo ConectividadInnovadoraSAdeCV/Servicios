@@ -1,0 +1,10 @@
+c:\users\pablo\documents\visual studio 2012\Projects\MovilRestService\MovilRestService\bin\MovilRestService.dll
+c:\users\pablo\documents\visual studio 2012\Projects\MovilRestService\MovilRestService\bin\MovilRestService.pdb
+c:\users\pablo\documents\visual studio 2012\Projects\MovilRestService\MovilRestService\obj\Debug\MovilRestService.csprojResolveAssemblyReference.cache
+c:\users\pablo\documents\visual studio 2012\Projects\MovilRestService\MovilRestService\obj\Debug\MovilRestService.dll
+c:\users\pablo\documents\visual studio 2012\Projects\MovilRestService\MovilRestService\obj\Debug\MovilRestService.pdb
+C:\Users\jalvarez\Documents\Google Drive\Visual Studio 2012\Projects\MovilRestService\MovilRestService\bin\MovilRestService.dll
+C:\Users\jalvarez\Documents\Google Drive\Visual Studio 2012\Projects\MovilRestService\MovilRestService\bin\MovilRestService.pdb
+C:\Users\jalvarez\Documents\Google Drive\Visual Studio 2012\Projects\MovilRestService\MovilRestService\obj\Debug\MovilRestService.dll
+C:\Users\jalvarez\Documents\Google Drive\Visual Studio 2012\Projects\MovilRestService\MovilRestService\obj\Debug\MovilRestService.pdb
+C:\Users\jalvarez\Documents\Google Drive\Visual Studio 2012\Projects\MovilRestService\MovilRestService\obj\Debug\MovilRestService.csprojResolveAssemblyReference.cache
